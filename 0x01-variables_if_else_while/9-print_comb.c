@@ -10,7 +10,7 @@ int main(void)
 
 	while (v <= '9')
 	{
-		putchar(f);
+		putchar(v);
 		if (v != '9')
 		{
 			putchar(',');

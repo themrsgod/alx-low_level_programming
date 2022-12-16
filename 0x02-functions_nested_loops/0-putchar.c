@@ -1,7 +1,8 @@
 #include "main.h"
 
 /**
- * main - print _putchar
+ * main - print _putcha
+ * by themrsgod
  * Return: 0
  */
 
